@@ -1,0 +1,4 @@
+# 👋 Welcome to GRyCAP's GitHub Organization 
+The [GRyCAP](https://www.grycap.upv.es) research group is dedicated to advancing research and development in the fields of distributed computing, cloud computing, and high-performance computing. Our mission is to provide innovative Cloud-based solutions and tools to support the efficient deployment and execution of scientific applications across distributed computing infrastructures.
+
+Our group contributes with software developments to major Horizon Europe research projects, mainly around the [European Open Science Cloud (EOSC)](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en) initiative.
